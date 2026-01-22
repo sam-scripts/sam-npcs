@@ -25,10 +25,9 @@
 
 | Feature | Detail |
 | :--- | :--- |
-| **Framework** | Standalone (Works on any server) |
+| **Framework** | Standalone (Works on any server/framework) |
 | **Dependencies** | N/A |
-| **Performance (Idle)** | 0.00ms |
-| **Code Accessibility** | Open Source / Unencrypted |
+| **Performance (Idle) (Depending on amount of NPC's)** | 0.00ms |
 | **Support** | Discord |
 
 ---
