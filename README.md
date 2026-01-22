@@ -19,15 +19,6 @@
 
 **NPC Spawner** gives you a robust base framework to populate your world. Whether you need a shopkeeper standing behind a counter or a construction worker digging at a site, this script handles the spawning and animation logic efficiently.
 
-Because it is fully **Open Source**, you have complete access to the code, allowing you to use it as a standalone resource or a baseline to build your own complex systems.
-
-## ✨ Key Features
-
-* **🔓 Fully Open Source:** Full access to every line of code. Customize it to your specific needs.
-* **⚙️ Easy Configuration:** Set up new NPCs quickly using the `config.lua` file.
-* **🚀 Highly Optimized:** A super lightweight resource that only affects the client side. Runs at **0.00ms** at idle.
-* **🎭 Animation Support:** Easily assign animations to your spawned NPCs to bring the environment to life.
-
 ---
 
 ## 💻 Technical Details
