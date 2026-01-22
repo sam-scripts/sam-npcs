@@ -9,7 +9,7 @@
 
 **A lightweight, free, and open-source framework designed to spawn NPCs (peds) at specific locations with custom animations.**
 
-[Download Now]([#](https://github.com/sam-scripts/sam-npcs/archive/refs/heads/main.zip)) · [Report Bug](#) · [Join Discord](#)
+[Download Now](https://github.com/sam-scripts/sam-npcs/archive/refs/heads/main.zip) · [Report Bug](#) · [Join Discord](#)
 
 </div>
 
