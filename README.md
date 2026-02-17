@@ -3,7 +3,6 @@
 # 🧍 NPC Spawner
 
 ![Framework](https://img.shields.io/badge/Framework-Standalone-0099ff?style=for-the-badge&logo=lua)
-![License](https://img.shields.io/badge/License-Open%20Source-2ecc71?style=for-the-badge)
 ![Resmon](https://img.shields.io/badge/Resmon-0.00ms-success?style=for-the-badge)
 ![Dependencies](https://img.shields.io/badge/Dependencies-None-lightgrey?style=for-the-badge)
 
